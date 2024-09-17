@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVAK.Client", "src\KVAK.Client\KVAK.Client.csproj", "{B8AAE8AE-20B0-4314-8A37-EC4D04F5CB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVAK.Networking", "src\KVAK.Networking\KVAK.Networking.csproj", "{DA935F1F-B8F2-4FF6-818D-DA8C41E46E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVAK.Core", "src\KVAK.Core\KVAK.Core.csproj", "{6244F324-B669-4596-A121-93FA9A360D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPlayground", "src\TestingPlayground\TestingPlayground.csproj", "{BC7554A7-E503-400B-A8E3-10AC4A7FB764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVAK.Interactive", "src\KVAK.Interactive\KVAK.Interactive.csproj", "{97279432-F3B2-4966-A352-5F5656CFD6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8AAE8AE-20B0-4314-8A37-EC4D04F5CB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AAE8AE-20B0-4314-8A37-EC4D04F5CB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AAE8AE-20B0-4314-8A37-EC4D04F5CB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AAE8AE-20B0-4314-8A37-EC4D04F5CB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA935F1F-B8F2-4FF6-818D-DA8C41E46E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA935F1F-B8F2-4FF6-818D-DA8C41E46E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA935F1F-B8F2-4FF6-818D-DA8C41E46E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA935F1F-B8F2-4FF6-818D-DA8C41E46E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6244F324-B669-4596-A121-93FA9A360D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6244F324-B669-4596-A121-93FA9A360D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6244F324-B669-4596-A121-93FA9A360D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6244F324-B669-4596-A121-93FA9A360D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7554A7-E503-400B-A8E3-10AC4A7FB764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7554A7-E503-400B-A8E3-10AC4A7FB764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7554A7-E503-400B-A8E3-10AC4A7FB764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7554A7-E503-400B-A8E3-10AC4A7FB764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97279432-F3B2-4966-A352-5F5656CFD6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97279432-F3B2-4966-A352-5F5656CFD6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97279432-F3B2-4966-A352-5F5656CFD6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97279432-F3B2-4966-A352-5F5656CFD6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
